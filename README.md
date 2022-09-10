@@ -1,0 +1,2 @@
+# vadimkalayda6
+KalaidaVadim_LektoriumJS_HW6
